@@ -1,0 +1,6 @@
+{
+  "name": "ME416 Autonomous Driving Studio",
+  "description": "Full autonomous driving pipeline simulation for ME416 Lab 3: Dubins planning, trapezoidal trajectory generation, kinematic bicycle physics, and discrete LQR control for AgileX LIMO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
